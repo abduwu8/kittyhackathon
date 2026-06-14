@@ -1,0 +1,70 @@
+{
+  "stories": [
+    {
+      "id": "one-brain-cell",
+      "title": "one brain cell vs. global disaster",
+      "description": "one cat, one brain cell, and a disaster big enough to need both , barely.",
+      "labelColor": "#E8A838",
+      "assetDir": "story1",
+      "posterFile": "Poster1.png",
+      "panels": [
+        { "id": 1, "borderColor": "#E53935", "width": 307, "height": 307 },
+        { "id": 2, "borderColor": "#1E88E5", "width": 307, "height": 307 },
+        { "id": 3, "borderColor": "#43A047", "width": 295, "height": 307 },
+        { "id": 4, "borderColor": "#FB8C00", "width": 539, "height": 307 },
+        { "id": 5, "borderColor": "#8E24AA", "width": 487, "height": 551 },
+        { "id": 6, "borderColor": "#6A1B9A", "width": 278, "height": 307 },
+        { "id": 7, "borderColor": "#EC407A", "width": 539, "height": 307 },
+        { "id": 8, "borderColor": "#D81B60", "width": 278, "height": 307 },
+        { "id": 9, "borderColor": "#00897B", "width": 539, "height": 307 },
+        { "id": 10, "borderColor": "#3949AB", "width": 293, "height": 307 },
+        { "id": 11, "borderColor": "#F4511E", "width": 312, "height": 307 }
+      ],
+      "rowSlices": [[0, 3], [3, 5], [5, 8], [8, 10], [10, 11]]
+    },
+    {
+      "id": "his-meowjesty",
+      "title": "his meowjesty",
+      "description": "royal attitude, imperial naps, and a kingdom ruled one dramatic meow at a time.",
+      "labelColor": "#E8A838",
+      "assetDir": "catstory2",
+      "posterFile": "Poster2.png",
+      "panels": [
+        { "id": 1, "borderColor": "#e81d25", "width": 307, "height": 307 },
+        { "id": 2, "borderColor": "#136ed2", "width": 295, "height": 307 },
+        { "id": 3, "borderColor": "#f7931e", "width": 539, "height": 307 },
+        { "id": 4, "borderColor": "#423d65", "width": 487, "height": 551 },
+        { "id": 5, "borderColor": "#8c52ff", "width": 278, "height": 307 },
+        { "id": 6, "borderColor": "#ff66c4", "width": 539, "height": 307 },
+        { "id": 7, "borderColor": "#00bf63", "width": 278, "height": 307 },
+        { "id": 8, "borderColor": "#e81d25", "width": 539, "height": 307 },
+        { "id": 9, "borderColor": "#f7931e", "width": 293, "height": 307 },
+        { "id": 10, "borderColor": "#136ed2", "width": 312, "height": 307 },
+        { "id": 11, "borderColor": "#423d65", "width": 487, "height": 401 }
+      ],
+      "rowSlices": [[0, 3], [3, 5], [5, 8], [8, 10], [10, 11]]
+    },
+    {
+      "id": "internets-unexpected-hero",
+      "title": "the internet's unexpected hero",
+      "description": "when the world goes online, one unlikely cat becomes the hero nobody saw coming.",
+      "labelColor": "#E8A838",
+      "assetDir": "story3",
+      "posterFile": "Poster3.png",
+      "panels": [
+        { "id": 1, "borderColor": "#E8A838", "width": 307, "height": 307 },
+        { "id": 2, "borderColor": "#D35400", "width": 295, "height": 307 },
+        { "id": 3, "borderColor": "#C0392B", "width": 539, "height": 307 },
+        { "id": 4, "borderColor": "#8E44AD", "width": 487, "height": 551 },
+        { "id": 5, "borderColor": "#16A085", "width": 278, "height": 307 },
+        { "id": 6, "borderColor": "#2980B9", "width": 539, "height": 307 },
+        { "id": 7, "borderColor": "#27AE60", "width": 278, "height": 307 },
+        { "id": 8, "borderColor": "#E67E22", "width": 539, "height": 307 },
+        { "id": 9, "borderColor": "#9B59B6", "width": 293, "height": 307 },
+        { "id": 10, "borderColor": "#2C3E50", "width": 312, "height": 307 },
+        { "id": 11, "borderColor": "#F39C12", "width": 487, "height": 401 }
+      ],
+      "rowSlices": [[0, 3], [3, 5], [5, 8], [8, 10], [10, 11]]
+    }
+  ]
+}
